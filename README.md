@@ -10,7 +10,7 @@ Un petit addon qui ajoute un nouveau UI pour remplacer le weapon selector de bas
 Voici un aperçu avec les **2 thèmes disponibles** :  
 *(version transparente et version opaque)*
 
-<img width="577" height="268" alt="transparent" src="https://github.com/user-attachments/assets/4662b69e-ded0-4e94-9df2-4500519ab7e4" />
+<img width="592" height="285" alt="transparent" src="https://github.com/user-attachments/assets/4662b69e-ded0-4e94-9df2-4500519ab7e4" />
 <img width="592" height="285" alt="opaque" src="https://github.com/user-attachments/assets/2a664d6b-00f6-4765-b7df-b6e66c7ee19d" />
 
 
