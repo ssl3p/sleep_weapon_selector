@@ -28,4 +28,4 @@ Et voilà, le tours est joué ! 🚀
 
 ## 🔧 Exemple de configuration
 
-<img width="943" height="447" alt="image" src="https://github.com/user-attachments/assets/b689b513-9137-4bd8-ad01-2f977d9c7957" />
+<img width="941" height="446" alt="image" src="https://github.com/user-attachments/assets/0dbf54b4-467d-45f5-9ea1-77582af7d04e" />
