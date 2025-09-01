@@ -20,7 +20,8 @@ Voici un aperçu avec les **2 thèmes disponibles** :
 
 1. Téléchargez l’addon et glissez le dossier `sleep_weapon_selector` dans ton répertoire `addons/`.
 2. Configurez l'addon dans `sleep_weapon_selector/lua/ssl3p/config.lua`.
-3. Redémarrez votre serveur. 
+3. Ajoutez les content dans votre collection : https://steamcommunity.com/sharedfiles/filedetails/?id=3559792541
+4. Redémarrez votre serveur. 
 
 Et voilà, le tours est joué ! 🚀
 
